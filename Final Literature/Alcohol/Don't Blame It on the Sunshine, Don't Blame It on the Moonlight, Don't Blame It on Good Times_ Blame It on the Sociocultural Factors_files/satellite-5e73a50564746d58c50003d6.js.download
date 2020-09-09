@@ -1,0 +1,5 @@
+if(window.ga){
+	ga('set', 'metric2', 1);
+	ga('send', 'pageview', document.location.href);
+	ga('set', 'metric2', 0);
+}

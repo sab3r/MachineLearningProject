@@ -1,0 +1,31 @@
+Motivation 
+========== 
+I believe that road accidents are not inevitable, at least this statement is questionable. Please include a reference to support your statements. Since you have two distinct topics, you can separate them in subsections A and B. Create a single subsection is not recommended in any circumstance. You do not need to report the datasets you are going to use since there is a section to report this information. To create a single topic to your work, you could focus on the effect of climate on alcohol consumption and car accidents. Just an idea. 
+
+Research Question 
+================= 
+RQ 1 is Okay. 
+RQ 2 is not clear and you should elaborate it better. 
+
+Initial Review 
+============== 
+You should structure this section also in 2 subsections, one per topic. You will need to include more related works for the final project. 
+
+Data Sources 
+============ 
+Okay. 
+
+Machine Learning Methods 
+======================== 
+Missing reference to the methods. Polynomial Regression is a Multilinear regression, so you should look for another regression method to the alcohol consumption study. 
+
+Evaluation Methods 
+================== 
+Missing reference to the methods. 
+Bibliography 
+============ 
+Not complaint with IEEE referencing style. 
+
+Other Comments 
+============== 
+When referencing more than one paper in sequence instead of "[1] [3]", it should be "[1,3]" You should not use contraction like it's. I believe you forgot a {} and in many places the text "subsectionClimatic effects on alcohol consumption" is showing up

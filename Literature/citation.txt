@@ -1,0 +1,26 @@
+Mirasgedis, Sebastian & Georgopoulou, Elena & Sarafidis, Y. & Papagiannaki, Katerina & Lalas, Dimitri. (2014). The Impact of Climate Change on the Pattern of Demand for Bottled Water and Non-Alcoholic Beverages. Business Strategy and the Environment. 23. 10.1002/bse.1782. 
+
+
+https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf
+
+
+https://pdf.sciencedirectassets.com/270703/1-s2.0-S2210784316X00022/1-s2.0-S2210784316300900/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEG0aCXVzLWVhc3QtMSJHMEUCIAEODIQu9oooX4ruoYtuYh%2F26RBJ6lYaDyS1VM1BuoSiAiEA0%2BIKxHJzYB7Q2fBKo7iCpcZpAi3H%2FJgNy%2FwRc7yC7KsqtAMIRRACGgwwNTkwMDM1NDY4NjUiDIKsgeATwx5L%2Bph1DSqRA4ft%2BB%2Bxvaj%2F3VXuf%2FXxEOsX%2Fv42578UUYw8enONnJAsZGt1kgV0TqDaX4lAtsHOHMqIOyK5MjEVzLeox6yeL1du0ZG1kNrYJEE4jSWzarLsHU3dkDz0INHbtRlOPB%2BQYIoOu5HJ0Tw%2FmtG9SjRV%2BGnOdoQsokNjYWu3GH8fTwI426V7sd1dz00i5HkShrgZK4Za0NAE3YYwtpEC7h1QniRfS6zYWs%2Fn5jKdCOpvjg4ubIavsTmxX263FVFZnEi7dVIRXHuCeqi5kt1VrDipZOJJOTZMjNnUh3%2B9TcGjqqCBPqq%2FFiyLqCJ7hJgoQtfmSg4rPAInjQ8KUl7TqjQqaXs2jOHF%2FLhpf3Xh9IdV92pijBl9QCkg8aAnoJu3gl5rT%2Fp4IL0QVWEgWJNKD6%2B%2FbzuHBWzaiqH0b7qffPHMUCQznEaJ%2FZtZoY0Ho6EbUR7rXAuRp%2BkEtXvHcIEyTMSbAemEcVoyudYl166fCwbAUQ3GtaC%2F1hC2%2Bi21TaPs840tpwIROz7Q5DsJRbDgF%2FG3%2BTAzMNOX%2BfIFOusBqqqLU0rRX4zJSaSuIi6ODJfbFN8Pw37UVXo6y7vZrWK5lWt1c%2BFIze4mSjLZPChuBIP5Vd69FERD%2B7XKznZ4pW1tOwryCrLnNOuN3unwRb6FR2Cc3i1hm23VABeki9GDLmlEAQc2485WWsW7aH7iy5SCUnkxsrX6IA2P%2BJcnY%2Bu3XG06puLCogtTRpqyJ4PY38%2FePcPfgDj1IQzsTmkv1oJq6FYUvW9a6zDu2ceyrJ0dmbpchlAU%2BOMXERKpZ2UcDdQakpKiKErGIznlYhY23%2Fp0kuNCmvF%2BZ8R99QUVmBSbrIKEMXCi5QsgHA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200303T134054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYW4HVDV7Q%2F20200303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=605401a845cda3ce5ca803d307ce01f03664e6cf9fa17cf92515262aeaa76d11&hash=db2f4216bfb9fb6bcdb9c0f8a42e63a9252fe0c6c75b5666900c71df3ab79268&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2210784316300900&tid=spdf-e659dcab-2474-4c67-a196-8d1f0fefafec&sid=91c501877c5962450f4b7b0-4181c068df7egxrqb&type=client
+
+
+
+
+https://www.drugsandalcohol.ie/6887/1/McKinney_4017_Pattern_of_alcohol_consumption.pdf
+
+
+
+#############################
+Get County Data from Lat,Long
+#############################
+https://geo.fcc.gov/api/census/ 
+
+
+#################
+IOWA Liquor Sales
+#################
+
+https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy

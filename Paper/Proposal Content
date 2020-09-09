@@ -1,0 +1,58 @@
+[IMP] Motivation (25% of marks. Max 300 words)
+
+Alcohol sales based on climate conditions
+
+Alcohol has been an integral part of cultures across the globe for many centuries. The consumption of alcohol occurs either during specific occasions like a wedding, a funeral, a birthday etc. or in a casual setting where freinds and family get together and have a couple of drinks. This study will attempt to find if in addition to the above mentioned events do any climatic factors affect the drinking pattern in people. The goal of this study is to try to find a pattern in the drinking habits of people [with focus on climate]. This study can prove to be a stepping stone for other alcohol consumption related studies such as 'Mishaps due to alcohol consumption', 'Health related issues due to alcohol consumption', 'Study of alcohol consumption and domestic violence' etc.
+
+
+
+Fatality in road accidents
+
+
+[IMP] Research Question (15% marks. Max 50 words.)
+
+
+[IMP] Initial Review (25% marks. Max 400 words)
+
+
+Data Sources (10%. List of data sorces. Source of data and brief description.)
+
+1. Iowa State Liquor Sales Data
+https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy
+
+2. Iowa State Road Accidents Data
+https://data.iowa.gov/Crashes/Vehicle-Accidents-in-Iowa-by-Location-Last-Ten-Yea/5xg3-s5yb
+
+3. Iowa State Climate Data
+National Centers for Environmantal Information
+https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/locations/FIPS:19/detail
+
+
+Machine Learning Methods (10%. At least one per data source. Brief description of each method and rationale for choosing the method.)
+
+A. Effect of climate on alcohol sales
+Linear Regression
+Polynomial Regression
+Stepwise Regression/Ridge Regression/Lasso Regression
+
+B. Effect of road conditions, location, weather and the sevearity of an accident on the possibility of a fatality.
+Bayes Naives
+Logistic Regression
+SVM
+
+Evaluation Methods (10%. Max 100 words. Brief description of proposed methods  to evaluate chosen machine learning method)
+
+Regression:
+MSE/RMSE
+MAE
+R-squared/Adjusted R-squared
+
+Classification:
+Accuracy cannot be used as the dataset is highly imbalanced.
+
+Confusion Matrix
+So methods like Precision/Recall, F1 statistics will be used to evaluate the model.
+
+
+
+Bibliography (5%. Exempt from lenght limit.)
